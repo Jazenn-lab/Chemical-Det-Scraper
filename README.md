@@ -1,7 +1,9 @@
 🧪 Fresh Chemical Scraper
 A Python tool to auto-fill missing chemical details from an Excel sheet using CAS numbers. It fetches data from PubChem and Ambeed, guesses the chemical category, and saves the enriched results into a structured Excel file.
 
+
 🔧 Features
+
 ✅ Auto-fetch Chemical Name, Molecular Formula, Molecular Weight, Appearance, etc.
 
 ✅ Intelligent category guessing (e.g. Aromatic, Halogenated)
@@ -16,7 +18,9 @@ A Python tool to auto-fill missing chemical details from an Excel sheet using CA
 
 ✅ Clean and modular code
 
+
 📁 Requirements
+
 Python 3.7+
 
 Dependencies listed in requirements.txt
